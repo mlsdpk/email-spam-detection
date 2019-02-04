@@ -22,4 +22,4 @@ This project has been broken down in to the following steps:
 - Step 6: Evaluating our model
 - Step 7: Conclusion
 
-You can find all the step by step inplementations in the notebook.
+You can find all the step by step implementations in the notebook.
